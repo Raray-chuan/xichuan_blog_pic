@@ -1,2 +1,2 @@
 # xichuan_blog_pic
-blog pic
+This is my blog picture repositpry
