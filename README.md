@@ -1,2 +1,1 @@
-# xichuan_blog_pic
-This is my blog picture repositpry
+This is my blog picture and file repositpry
